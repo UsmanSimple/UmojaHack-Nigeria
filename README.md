@@ -1,2 +1,2 @@
 # UmojaHack-Nigeria
-UmojaHack Nigeria: AXA Vehicle Insurance Claim Challenge by UmojaHack
+UmojaHack Nigeria: AXA Vehicle Insurance Claim Challenge by UmojaHack @ Zindi Africa
